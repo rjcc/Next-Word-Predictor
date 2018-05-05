@@ -1,0 +1,12 @@
+name: wordpredict
+title: wordpredict
+username:
+account: splionar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 335689
+bundleId: 1357072
+url: https://splionar.shinyapps.io/wordpredict/
+when: 1525505853.08616
+asMultiple: FALSE
+asStatic: FALSE
