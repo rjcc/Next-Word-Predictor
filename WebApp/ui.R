@@ -40,7 +40,12 @@ shinyUI(
                                                                     width = "100%", height = "100%", resize = "none"),
                                                       h5("Next word predictions:"),
                                                       uiOutput("words"),
-                                                      h6("Click to add to your sentences")
+                                                      h6("Click to add to your sentences"),
+                                                      tags$br(),
+                                                      tags$br(),
+                                                      h6("The page may take a while to initialize."),
+                                                      h6("If it does not display correctly, 
+                                                        please use the latest version of Google Chrome.")
                                                     ) 
                                                 )
                                       )
